@@ -3,7 +3,7 @@
     "es2021": true,
     "node": true
   },
-  "extends": ["plugin:sonarjs/recommended", "eslint:recommended", "prettier"],
+  "extends": ["plugin:sonarjs/recommended", "eslint:recommended", "plugin:prettier/recommended"],
   "plugins": ["sonarjs"],
   "overrides": [],
   "parserOptions": {
